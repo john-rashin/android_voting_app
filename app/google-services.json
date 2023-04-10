@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174544715379",
+    "project_id": "android-voting-system-d46d7",
+    "storage_bucket": "android-voting-system-d46d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174544715379:android:97335694cfd77d8cb33406",
+        "android_client_info": {
+          "package_name": "com.example.androidvotingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174544715379-miukqufjcfm4kq22thvsug1o3ge185id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidvotingsystem",
+            "certificate_hash": "2b4603d1e6f79f5233a0c46b2786d2b459ca8cff"
+          }
+        },
+        {
+          "client_id": "174544715379-rpj188lcki5e27es8mh1uiaghthl4rj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQGqj3PlJxc4yB4fSPPUc8-5XzFtegIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174544715379-rpj188lcki5e27es8mh1uiaghthl4rj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
